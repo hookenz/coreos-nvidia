@@ -1,3 +1,5 @@
+DEPRECATED.  Use nvidia-docker instead. https://github.com/NVIDIA/nvidia-docker
+
 # CoreOS-Nvidia
 This is a Dockerfile that builds a container with nvidia GPU drivers.  Once built running the container in privileged mode will install the kernel module.
 
